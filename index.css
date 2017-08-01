@@ -68,6 +68,9 @@ line-height: 10px;
 	letter-spacing: 1px;
 	top:40px; 
 }
+nav{
+box-shadow:2px 2px 2px black;
+}
 
 nav ul li {
 	list-style: none;
